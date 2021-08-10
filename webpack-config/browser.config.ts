@@ -12,8 +12,8 @@ export const BrowserConfiguration: webpack.Configuration = {
     target: 'web',
     output: {
         path: path.join(__dirname, '../dist/'),
-        filename: 'LablebSDK.min.js',
-        library: 'LablebSDK',
+        filename: 'JSLibrary.min.js',
+        library: 'JSLibrary',
         libraryTarget: 'umd',
         umdNamedDefine: true,
         globalObject: 'this',
