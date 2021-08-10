@@ -25,7 +25,4 @@ export const NodeConfiguration: webpack.Configuration = {
             "process.env": JSON.stringify(process.env),
         }),
     ],
-    optimization: {
-        minimize: false,
-    }
 }
