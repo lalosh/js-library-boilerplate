@@ -1,6 +1,6 @@
 {
   "name": "@lalosh/js-library-boilerplate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "js library boilerplate",
   "main": "dist/index.js",
   "author": "Louay Al-osh <louayalosh17@gmail.com>",
